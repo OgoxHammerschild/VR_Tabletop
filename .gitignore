@@ -42,7 +42,6 @@
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
-Textures/
 
 # Binary Files
 Binaries/*
@@ -62,3 +61,5 @@ Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 T_*.uasset
+Textures/
+*.zip
